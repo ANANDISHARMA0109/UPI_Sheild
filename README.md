@@ -36,7 +36,7 @@ Advanced fraud detection system for UPI transactions combining:
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/upi-shield.git
+git clone https://github.com/ANANDISHARMA0109/UPI_Sheild.git
 cd upi-shield
 pip install -r requirements.txt
 streamlit run main.py
