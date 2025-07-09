@@ -1,5 +1,7 @@
 # UPI Shield 🛡️
 
+Developed by: ANANDISHARMA0109, anannya-2032
+
 Advanced fraud detection system for UPI transactions combining:
 - **Anomaly Detection** (Machine Learning)
 - **Context Analysis** (NLP/Sentiment)
